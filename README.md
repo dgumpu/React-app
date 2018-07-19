@@ -1,5 +1,5 @@
 # React APP
-A simple post app built with React.js
+A simple post app built with React.js. The sample post were gotten from `https://jsonplaceholder.typicode.com/posts`
 
 ## Requirements
 - Git
