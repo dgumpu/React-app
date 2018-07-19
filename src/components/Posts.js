@@ -12,7 +12,7 @@ class Posts extends Component {
     render() {
         return (
             <div>
-                <h1>Post Samples</h1>
+                <h1 className="display-1">Post Samples</h1>
                 <table className="table">
                     <thead>
                         <tr>
