@@ -5,7 +5,9 @@ class App extends Component {
   
   render() {
     return (
-      <Posts />
+      <div className="container">
+        <Posts />
+      </div>
     );
   }
 }
